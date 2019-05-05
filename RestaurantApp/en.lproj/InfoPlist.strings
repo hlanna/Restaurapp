@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  RestaurantApp
+
+  Created by Anna Hacksell Lindberg on 2019-04-24.
+  Copyright © 2019 Anna Hacksell Lindberg. All rights reserved.
+*/
+NSLocationWhenInUseUsageDescription = "12345";

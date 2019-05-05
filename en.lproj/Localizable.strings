@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  RestaurantApp
+
+  Created by Anna Hacksell Lindberg on 2019-04-24.
+  Copyright © 2019 Anna Hacksell Lindberg. All rights reserved.
+*/
+"Welcome to Restaurapp!" = "Welcome to Restaurapp!";
+"Do we have permission to use GPS on your phone?" = "Do we have permission to use GPS on your phone?";
+"Yes" = "Yes";
+"No" = "No";
+"Restaurant Title" = "Title";
+"Opening Hours" = "Opening Hours";
+"Food" = "Food";
+"Sun Location" = "Sun Location";
+
+
+
